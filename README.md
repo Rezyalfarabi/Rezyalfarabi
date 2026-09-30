@@ -90,28 +90,15 @@ Fakta kecil: bug paling lama yang pernah saya cari ternyata cuma salah ketik sat
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rezyalfarabi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezyalfarabi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+<img src="./github-metrics.svg" alt="GitHub metrics Rezyalfarabi" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Rezyalfarabi&theme=tokyonight&hide_border=true" alt="streak" />
 
-</div>
+<br/><br/>
 
-## Grafik aktivitas
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rezyalfarabi&theme=tokyo-night&hide_border=true&area=true&custom_title=Grafik%20Kontribusi%20Rezyalfarabi" alt="activity graph" />
-
-</div>
-
-## Piala dan pencapaian
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rezyalfarabi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies" />
+<img src="https://ghchart.rshah.org/00c6ff/Rezyalfarabi" alt="grafik kontribusi" />
 
 </div>
 
@@ -119,24 +106,46 @@ Fakta kecil: bug paling lama yang pernah saya cari ternyata cuma salah ketik sat
 
 ## Random corner
 
-Bagian ini isinya acak dan berubah setiap halaman dimuat.
-
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random quote" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rezyalfarabi/Rezyalfarabi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rezyalfarabi/Rezyalfarabi/output/github-snake.svg" />
+  <img alt="snake makan kontribusi" src="https://raw.githubusercontent.com/Rezyalfarabi/Rezyalfarabi/output/github-snake.svg" />
+</picture>
+
+<sub>Ular ini lagi makan grafik kontribusi saya.</sub>
 
 <br/><br/>
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="random joke" />
+<img src="https://img.shields.io/badge/Mood-Ngoding_sampai_pagi-00c6ff?style=flat-square" />
+<img src="https://img.shields.io/badge/Bug-Masih_dicari-red?style=flat-square" />
+<img src="https://img.shields.io/badge/Kopi-Wajib-8B4513?style=flat-square" />
+<img src="https://img.shields.io/badge/Center_a_div-Loading...-orange?style=flat-square" />
 
 </div>
 
-Beberapa kebenaran pahit dunia ngoding:
+<!--RANDOM:START-->
+> **Fortune cookie developer**
+> Hari ini `git status` akan jadi teman terbaikmu.
 
-- Kode yang "cuma diubah sedikit" hampir selalu bikin sesuatu yang lain rusak.
-- Fitur yang jalan di laptop belum tentu jalan setelah deploy.
-- `git commit -m "fix"` adalah pesan commit paling jujur sekaligus paling tidak membantu.
-- Flutter hot reload bikin ketagihan, dan sulit balik ke cara lama.
+> **Fakta random**
+> PHP awalnya singkatan dari Personal Home Page, sekarang artinya PHP: Hypertext Preprocessor.
+
+> **Quest hari ini**
+> Tambahkan satu komentar di kode yang dulu kamu sendiri tidak paham.
+
+<sub>Diacak otomatis setiap hari. Terakhir: 30-09-2026</sub>
+<!--RANDOM:END-->
+
+<details>
+<summary>Jangan diklik. Serius.</summary>
+
+<br/>
+
+Tuh kan diklik. Ya sudah, ini rahasianya: saya pernah menghabiskan satu jam mencari bug, dan ternyata browser-nya belum di-refresh.
+
+</details>
 
 ---
 
