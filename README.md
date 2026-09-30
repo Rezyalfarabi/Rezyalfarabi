@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Rezy%20Alfarabi&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20%26%20Mobile%20Developer&descAlignY=58&descSize=20" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Rezy%20Alfarabi&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20dan%20Mobile%20Developer&descAlignY=58&descSize=20" alt="header" />
 
 <a href="https://github.com/Rezyalfarabi">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00C6FF&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Rezy+%F0%9F%91%8B;Suka+ngoding+web+dan+aplikasi+mobile;Lagi+belajar%2C+lagi+ngulik%2C+kadang+error;Kopi+dulu%2C+baru+commit" alt="typing" />
